@@ -1,3 +1,6 @@
+<h1>Welcome to my profile</h1>
+<hr style="background-color:green;">
+
 ### Hi there 👋
 
 <!--
