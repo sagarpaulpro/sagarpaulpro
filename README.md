@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my profile</h1>
 <hr style="background-color:green;color:green">
+<p style="color: red;">I am practising HTML.</p>
 
 ### Hi there 👋
 
