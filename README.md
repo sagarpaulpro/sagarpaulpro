@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/7f8b036a-156b-419c-b0ab-ca02c8a98433" alt="Welcome" width="400" height="300">
+![Profile picture](https://github.com/user-attachments/assets/2545be2f-b14a-43fa-b5e0-aa52e9f0fc4e)
 <h1 align="center">Welcome to my profile</h1>
 <hr style="background-color:green;color:green">
 <p color="red">Thank you for showing interest in me and taking the time to explore my work.
