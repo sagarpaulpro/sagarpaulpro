@@ -1,4 +1,5 @@
-![498698508_122131717232748513_129842335545567792_n](https://github.com/user-attachments/assets/7f8b036a-156b-419c-b0ab-ca02c8a98433)
+<img src="[https://github.com/user-attachments/assets/7f8b036a-156b-419c-b0ab-ca02c8a98433" alt="Welcome" width="400" height="300">
+]()
 <h1 align="center">Welcome to my profile</h1>
 <hr style="background-color:green;color:green">
 <p color="red">Thank you for showing interest in me and taking the time to explore my work.
